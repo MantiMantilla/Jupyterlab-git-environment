@@ -13,3 +13,4 @@ dependencies:
   - panel
   - scikit-learn
   - statsmodels
+  - jupyterlab
